@@ -10,4 +10,4 @@ Pinned there you will also find an assignment, of which I am really fond of, mad
 
 And that's about it for my dev career... for now, I hope.
 
-If for some reason you wanna reach out, hit me at `thiagoferronatto18@gmail.com`.
+If for some reason you wanna reach out, hit me at [thiagoferronatto18@gmail.com](mailto:thiagoferronatto18@gmail.com).
