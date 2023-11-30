@@ -6,6 +6,8 @@ As a hobby, I also made a few graphical applications, and both are featured in m
 
 ![image](https://github.com/thiagoferronatto/thiagoferronatto/assets/31262053/e836e6de-eb93-49f4-aaaf-005580c2cd04)
 
+Pinned there you will also find an assignment, of which I am really fond of, made with CUDA C++ all about a _GPU-accelerated technique for determining genetic distances between two sequences of nucleobases using a dynamic programming approach_. Now **that**'s a mouthful.
+
 And that's about it for my dev career... for now, I hope.
 
 If for some reason you wanna reach out, hit me at `thiagoferronatto18@gmail.com`.
