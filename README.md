@@ -2,7 +2,7 @@
 
 My name is Thiago, and I'm a computer science student (graduating soon) who works mostly in the field of Computer Graphics. Currently doing research (or trying to, anyway) on tensor product surfaces for my senior thesis.
 
-As a hobby, I also made a few graphical applications, and both are featured in my pinned repos down below. One is a very basic game engine, and the other is a full fledged path tracer (I mean, it's not Blender, but it's something at least). Below is a pretty little image I made with the latter.
+As a hobby, I also made a few graphical applications, and all the important ones are featured in my pinned repos down below. One is a very basic game engine, another is a full fledged path tracer (I mean, it's not Blender, but it's something at least). Below is a pretty little image I made with the latter. There is also a 3D engine, which is more robust than VBAG, that is useful for displaying 3D models and assembling scenes.
 
 ![image](https://github.com/thiagoferronatto/thiagoferronatto/assets/31262053/2390ecab-025c-4a6a-8646-878f5fee590f)
 
