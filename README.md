@@ -8,7 +8,7 @@ As a hobby, I also made a few graphical applications, and all the important ones
 
 There is also a 3D engine, which is more robust than VBAG, that is useful for displaying 3D models and assembling scenes. Here's a goofy little demo.
 
-https://github.com/thiagoferronatto/thiagoferronatto/assets/31262053/a47565c2-ca9f-4b79-bc3c-de6c9e0735d3
+https://github.com/thiagoferronatto/thiagoferronatto/assets/31262053/503f7fe5-1f15-4d30-aa6c-71a936a82d04
 
 Pinned there you will also find an assignment, of which I am really fond, made with CUDA C++ all about a _GPU-accelerated technique for determining genetic distances between two sequences of nucleobases using a dynamic programming approach_. Now **that**'s a mouthful.
 
