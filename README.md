@@ -1,6 +1,6 @@
 # Welcome to my (relatively empty) profile!
 
-I'm a computer science student (graduating soon) who works mostly in the field of Computer Graphics. Currently doing research (or trying to, anyway) on tensor product surfaces for my senior thesis.
+I'm a master's student in Computer Science student who works mostly in the fields of Computer Graphics and Computational Geometry. Currently doing research on tensor product surfaces for my thesis.
 
 As a hobby, I also made a few graphical applications, and all the important ones are featured in my pinned repos down below. One is a very basic game engine (VBAG), another is a full fledged path tracer (I mean, it's not Blender, but it's something at least). Below is a pretty little image I made with the latter.
 
@@ -14,7 +14,7 @@ This engine is also being used to display results from a simple physics engine t
 
 https://github.com/thiagoferronatto/thiagoferronatto/assets/31262053/4541cb39-0a90-4d03-b244-2303fde451dc
 
-Pinned there you will also find an assignment, of which I am really fond, made with CUDA C++ all about a _GPU-accelerated technique for determining genetic distances between two sequences of nucleobases using a dynamic programming approach_. Now **that**'s a mouthful.
+Pinned there you will also find an undergrad assignment, of which I am really fond, made with CUDA C++ all about a _GPU-accelerated technique for determining genetic distances between two sequences of nucleobases using a dynamic programming approach_. Now **that**'s a mouthful.
 
 And that's about it for my dev career... for now, I hope.
 
