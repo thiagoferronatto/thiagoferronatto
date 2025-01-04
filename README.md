@@ -1,6 +1,6 @@
 # Welcome to my (relatively empty) profile!
 
-I'm a master's student in Computer Science student who works mostly in the fields of Computer Graphics and Computational Geometry. Currently doing research on tensor product surfaces for my thesis.
+I'm a master's student in Computer Science who works mostly in the fields of Computer Graphics and Computational Geometry. Currently doing research on tensor product surfaces for my thesis.
 
 As a hobby, I also made a few graphical applications, and all the important ones are featured in my pinned repos down below. One is a very basic game engine (VBAG), another is a full fledged path tracer (I mean, it's not Blender, but it's something at least). Below is a pretty little image I made with the latter.
 
